@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋, I'm Austin
+
+I'm a freshman at Wright State University, majoring in Computer Science
 
 <!--
 **AustinS910/AustinS910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
