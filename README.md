@@ -8,5 +8,5 @@ I'm a freshman at Wright State University, majoring in Computer Science.
 -Learning SQL to work with databases for future projects and work.
 
 ## Projects I'm working on:
--Currency Converter developed in Java that uses an API to get updated currency conversion rates.
+-Currency Converter developed in C# that uses an API to get updated currency conversion rates.
 
